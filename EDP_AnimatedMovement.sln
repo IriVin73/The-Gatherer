@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDP_AnimatedMovement", "EDP_AnimatedMovement.csproj", "{657888E8-DFC6-45BA-8F67-11A4E49F30DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657888E8-DFC6-45BA-8F67-11A4E49F30DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657888E8-DFC6-45BA-8F67-11A4E49F30DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657888E8-DFC6-45BA-8F67-11A4E49F30DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657888E8-DFC6-45BA-8F67-11A4E49F30DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C31922EA-26DB-478C-B95C-65695B44BB46}
+	EndGlobalSection
+EndGlobal
